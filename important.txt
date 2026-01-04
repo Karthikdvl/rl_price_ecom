@@ -1,0 +1,13 @@
+reward vs episode 
+profit vs time
+price vs time
+
+regret vs time
+
+improve conversion rate
+price_volatility 0 to infi
+regret_vs_best_price 0 yo infi
+
+metrics to be added.
+authentication
+export function do be added.
